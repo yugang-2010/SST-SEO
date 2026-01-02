@@ -1,0 +1,1 @@
+This function implements a synchrosqueezing-based time–frequency analysis method enhanced by a synchroextracting operator (SEO). By estimating instantaneous frequencies from the short-time Fourier transform and selectively extracting consistent time–frequency components, the method improves energy concentration and robustness in the analysis of non-stationary signals.
